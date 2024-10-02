@@ -4,7 +4,7 @@ import HeroImage from "../../public/logo-cerdasmemilih.svg";
 import BackgroundImage from "../../public/background.svg";
 import IconKuda from "../assets/horse.png";
 import IconKujang from "../assets/kujang.png";
-import { daerah } from "../pages/data/dataDumb";
+import { daerah } from "../libs/data";
 import GambarBerita from "../assets/berita-1.png";
 import GambarBerita2 from "../assets/berita-2.png";
 import GambarBerita3 from "../assets/berita-3.png";
