@@ -49,7 +49,7 @@ export default function Home() {
 
               <Flex justify={"center"} gap={"4"} className="mt-8">
                 <button className="bg-accent-color hover:bg-[#ff9b06e5] rounded-xl px-5 py-2.5 text-white font-bold">Mulai Memilih</button>
-                <button className=" hover:bg-accent-color border border-accent-color rounded-xl px-5 text-text-color hover:text-white font-plus font-bold">Gabung Jadi Mitra</button>
+                <button className=" hover:bg-accent-color border border-accent-color rounded-xl px-5 text-text-color hover:text-white font-plus font-bold">Pelajari Lebih Lanjut</button>
               </Flex>
             </Container>
           </motion.div>
@@ -342,7 +342,7 @@ export default function Home() {
                 <Box className="w-fit">
                   <Image src={GambarBerita4} width={500} height={100} alt="Berita" className="rounded-lg" />
                   <Text as="div" size={"3"} className="font-bold py-4 text-text-color">
-                    Suasana Politik di Kuningan Masih &aposAdem&apos Jelang Kampanye Pilkada 2024, Tiga Paslon Siap Adu Visi Misi
+                    Suasana Politik di Kuningan Masih &apos;Adem&apos; Jelang Kampanye Pilkada 2024, Tiga Paslon Siap Adu Visi Misi
                   </Text>
                   <a
                     href="https://www.pikiran-rakyat.com/news/pr-018601988/suasa-politik-di-kuningan-masih-adem-jelang-kampanye-pilkada-2024-tiga-paslon-siap-adu-visi-misi?page=all#:~:text=PIKIRAN%20RAKYAT%20-%20Menjelang%20tahapan%20kampanye%20Pemilihan%20Kepala"
